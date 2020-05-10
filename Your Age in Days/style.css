@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&display=swap');
+body{
+    direction: ltr;
+    background-image: url(Cacti-Slope-Night.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.container-1{
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 6%;
+    border: 4px solid rgb(248, 244, 6);
+    border-radius: 20px;
+    font-family: 'Lalezar', cursive;
+    font-size: 15px;
+}
+.flex-box-container{
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 3%;
+}
+.inputs{
+    font-family: 'Lalezar', cursive;
+    direction: ltr;
+    margin-bottom: 10px;
+}
+#flex-box-result{
+    color: white;
+}
